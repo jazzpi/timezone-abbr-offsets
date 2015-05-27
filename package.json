@@ -1,0 +1,24 @@
+{
+  "name": "timezone-abbr-offsets",
+  "version": "1.0.0",
+  "description": "Timezone abbreviations mapped to offset from UTC in minutes",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jazzpi/timezone-abbr-offsets"
+  },
+  "keywords": [
+    "timezone",
+    "utc",
+    "offset"
+  ],
+  "author": "jazzpi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jazzpi/timezone-abbr-offsets/issues"
+  },
+  "homepage": "https://github.com/jazzpi/timezone-abbr-offsets"
+}
