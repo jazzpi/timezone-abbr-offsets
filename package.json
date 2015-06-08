@@ -1,6 +1,6 @@
 {
   "name": "timezone-abbr-offsets",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Timezone abbreviations mapped to offset from UTC in minutes",
   "main": "index.json",
   "scripts": {
